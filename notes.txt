@@ -1,0 +1,2 @@
+DB_POST = 7000 (pg port set upon setup the postgreSQL)
+password 123qwe
